@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Visual Studio Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
